@@ -10,6 +10,10 @@
 </head>
 
 <body>
+    <div class="mb-4 ms-2 mt-2 p-2 rounded text-bg-secondary w-auto d-inline-block">
+        <h5 class="text-start">Nama : Dhafi Ebsan Yurizal</h5>
+        <h5 class="text-start">NIM : 202404018</h5>
+    </div>
     <div class="container mt-5">
         <div class="card-shadow">
             <div class="card-header bg-primary text-white rounded">
